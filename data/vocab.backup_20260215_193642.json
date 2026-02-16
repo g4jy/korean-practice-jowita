@@ -210,24 +210,6 @@
         "rom": "NO-RAE",
         "en": "song",
         "category": "thing"
-      },
-      {
-        "kr": "할머니",
-        "rom": "HAL-MEO-NI",
-        "en": "grandmother",
-        "category": "general"
-      },
-      {
-        "kr": "설날",
-        "rom": "SEOL-LAL",
-        "en": "Lunar New Year",
-        "category": "general"
-      },
-      {
-        "kr": "이미에니니",
-        "rom": "I-MI-E-NI-NI",
-        "en": "name day (Polish tradition)",
-        "category": "general"
       }
     ],
     "verbs": [
@@ -455,24 +437,6 @@
         "rom": "GONG-BU",
         "en": "Studying",
         "category": "activity"
-      },
-      {
-        "kr": "할머니",
-        "rom": "HAL-MEO-NI",
-        "en": "Grandmother",
-        "category": "general"
-      },
-      {
-        "kr": "설날",
-        "rom": "SEOL-LAL",
-        "en": "Lunar new year",
-        "category": "general"
-      },
-      {
-        "kr": "이미에니니",
-        "rom": "I-MI-E-NI-NI",
-        "en": "Name day (polish tradition)",
-        "category": "general"
       }
     ],
     "adjectives": [
@@ -708,31 +672,6 @@
             "kr": "지금",
             "rom": "JI-GEUM",
             "en": "now"
-          },
-          {
-            "kr": "꼭",
-            "rom": "KKOK",
-            "en": "must/definitely/for sure"
-          }
-        ]
-      },
-      {
-        "name": "Expressions",
-        "cards": [
-          {
-            "kr": "잘 어울려요",
-            "rom": "JAL EO-UL-LYEO-YO",
-            "en": "It suits you well"
-          },
-          {
-            "kr": "가끔",
-            "rom": "GA-KKEUM",
-            "en": "sometimes"
-          },
-          {
-            "kr": "아 감사합니다",
-            "rom": "AH GAM-SA-HAM-NI-DA",
-            "en": "Ah, thank you"
           }
         ]
       }
